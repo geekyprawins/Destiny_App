@@ -10,13 +10,13 @@
 .history
 .svn/
 
-# IntelliJ related
+# IntelliJ related.
 *.iml
 *.ipr
 *.iws
 .idea/
 
-# Visual Studio Code related
+# Visual Studio Code related.
 .vscode/
 
 # Flutter/Dart/Pub related
